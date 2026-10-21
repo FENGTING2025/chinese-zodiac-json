@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 3032888153477379_0-drive/238679272587923369/chinese-zodiac-json/README.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 3032888153477379#1792602895016
-    ReservedCode2: ""
----
 # Chinese Zodiac Dataset
 
 A clean, structured JSON dataset of the 12 Chinese zodiac animals (生肖 / Shēngxiào) with traditional Chinese names, pinyin, Earthly Branches, fixed elements, years, branch hours, and traditional trait associations.
