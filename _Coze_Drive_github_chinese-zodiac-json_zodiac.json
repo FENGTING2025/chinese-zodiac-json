@@ -1,0 +1,468 @@
+{
+  "name": "Chinese Zodiac (Shēngxiào) — 12 Animals Dataset",
+  "note": "Years follow the Chinese lunar calendar. A sign changes at Chinese New Year (Jan–Feb), not on Jan 1. Verify the exact New Year date for boundary births.",
+  "culture_note": "Traits are traditional cultural generalizations for entertainment and reflection, not personality assessments.",
+  "animals": [
+    {
+      "number": 1,
+      "animal": "Rat",
+      "chinese": "鼠",
+      "pinyin": "Shǔ",
+      "earthly_branch": {
+        "chinese": "子",
+        "pinyin": "Zi"
+      },
+      "fixed_element": "Water",
+      "polarity": "yang",
+      "branch_hours": "23:00–01:00",
+      "years": [
+        1900,
+        1912,
+        1924,
+        1936,
+        1948,
+        1960,
+        1972,
+        1984,
+        1996,
+        2008,
+        2020,
+        2032
+      ],
+      "traditional_traits": {
+        "positive": [
+          "quick-witted",
+          "resourceful",
+          "adaptable",
+          "charming"
+        ],
+        "challenges": [
+          "cautious with trust",
+          "restless"
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "animal": "Ox",
+      "chinese": "牛",
+      "pinyin": "Niú",
+      "earthly_branch": {
+        "chinese": "丑",
+        "pinyin": "Chou"
+      },
+      "fixed_element": "Earth",
+      "polarity": "yin",
+      "branch_hours": "01:00–03:00",
+      "years": [
+        1901,
+        1913,
+        1925,
+        1937,
+        1949,
+        1961,
+        1973,
+        1985,
+        1997,
+        2009,
+        2021,
+        2033
+      ],
+      "traditional_traits": {
+        "positive": [
+          "diligent",
+          "dependable",
+          "determined",
+          "patient"
+        ],
+        "challenges": [
+          "stubborn",
+          "slow to change"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "animal": "Tiger",
+      "chinese": "虎",
+      "pinyin": "Hǔ",
+      "earthly_branch": {
+        "chinese": "寅",
+        "pinyin": "Yin"
+      },
+      "fixed_element": "Wood",
+      "polarity": "yang",
+      "branch_hours": "03:00–05:00",
+      "years": [
+        1902,
+        1914,
+        1926,
+        1938,
+        1950,
+        1962,
+        1974,
+        1986,
+        1998,
+        2010,
+        2022,
+        2034
+      ],
+      "traditional_traits": {
+        "positive": [
+          "brave",
+          "confident",
+          "charismatic",
+          "competitive"
+        ],
+        "challenges": [
+          "impulsive",
+          "short-tempered"
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "animal": "Rabbit",
+      "chinese": "兔",
+      "pinyin": "Tù",
+      "earthly_branch": {
+        "chinese": "卯",
+        "pinyin": "Mao"
+      },
+      "fixed_element": "Wood",
+      "polarity": "yin",
+      "branch_hours": "05:00–07:00",
+      "years": [
+        1903,
+        1915,
+        1927,
+        1939,
+        1951,
+        1963,
+        1975,
+        1987,
+        1999,
+        2011,
+        2023,
+        2035
+      ],
+      "traditional_traits": {
+        "positive": [
+          "gentle",
+          "elegant",
+          "diplomatic",
+          "careful"
+        ],
+        "challenges": [
+          "overly cautious",
+          "avoidant of conflict"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "animal": "Dragon",
+      "chinese": "龙",
+      "pinyin": "Lóng",
+      "earthly_branch": {
+        "chinese": "辰",
+        "pinyin": "Chen"
+      },
+      "fixed_element": "Earth",
+      "polarity": "yang",
+      "branch_hours": "07:00–09:00",
+      "years": [
+        1904,
+        1916,
+        1928,
+        1940,
+        1952,
+        1964,
+        1976,
+        1988,
+        2000,
+        2012,
+        2024,
+        2036
+      ],
+      "traditional_traits": {
+        "positive": [
+          "ambitious",
+          "confident",
+          "charismatic",
+          "energetic"
+        ],
+        "challenges": [
+          "demanding",
+          "arrogant at times"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "animal": "Snake",
+      "chinese": "蛇",
+      "pinyin": "Shé",
+      "earthly_branch": {
+        "chinese": "巳",
+        "pinyin": "Si"
+      },
+      "fixed_element": "Fire",
+      "polarity": "yin",
+      "branch_hours": "09:00–11:00",
+      "years": [
+        1905,
+        1917,
+        1929,
+        1941,
+        1953,
+        1965,
+        1977,
+        1989,
+        2001,
+        2013,
+        2025
+      ],
+      "traditional_traits": {
+        "positive": [
+          "wise",
+          "intuitive",
+          "graceful",
+          "strategic"
+        ],
+        "challenges": [
+          "guarded",
+          "jealous"
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "animal": "Horse",
+      "chinese": "马",
+      "pinyin": "Mǎ",
+      "earthly_branch": {
+        "chinese": "午",
+        "pinyin": "Wu"
+      },
+      "fixed_element": "Fire",
+      "polarity": "yang",
+      "branch_hours": "11:00–13:00",
+      "years": [
+        1906,
+        1918,
+        1930,
+        1942,
+        1954,
+        1966,
+        1978,
+        1990,
+        2002,
+        2014,
+        2026
+      ],
+      "traditional_traits": {
+        "positive": [
+          "energetic",
+          "independent",
+          "sociable",
+          "adventurous"
+        ],
+        "challenges": [
+          "restless",
+          "impatient"
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "animal": "Goat",
+      "chinese": "羊",
+      "pinyin": "Yáng",
+      "earthly_branch": {
+        "chinese": "未",
+        "pinyin": "Wei"
+      },
+      "fixed_element": "Earth",
+      "polarity": "yin",
+      "branch_hours": "13:00–15:00",
+      "years": [
+        1907,
+        1919,
+        1931,
+        1943,
+        1955,
+        1967,
+        1979,
+        1991,
+        2003,
+        2015,
+        2027
+      ],
+      "traditional_traits": {
+        "positive": [
+          "calm",
+          "creative",
+          "empathetic",
+          "reliable"
+        ],
+        "challenges": [
+          "indecisive",
+          "easily worried"
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "animal": "Monkey",
+      "chinese": "猴",
+      "pinyin": "Hóu",
+      "earthly_branch": {
+        "chinese": "申",
+        "pinyin": "Shen"
+      },
+      "fixed_element": "Metal",
+      "polarity": "yang",
+      "branch_hours": "15:00–17:00",
+      "years": [
+        1908,
+        1920,
+        1932,
+        1944,
+        1956,
+        1968,
+        1980,
+        1992,
+        2004,
+        2016,
+        2028
+      ],
+      "traditional_traits": {
+        "positive": [
+          "clever",
+          "curious",
+          "inventive",
+          "witty"
+        ],
+        "challenges": [
+          "mischievous",
+          "easily bored"
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "animal": "Rooster",
+      "chinese": "鸡",
+      "pinyin": "Jī",
+      "earthly_branch": {
+        "chinese": "酉",
+        "pinyin": "You"
+      },
+      "fixed_element": "Metal",
+      "polarity": "yin",
+      "branch_hours": "17:00–19:00",
+      "years": [
+        1909,
+        1921,
+        1933,
+        1945,
+        1957,
+        1969,
+        1981,
+        1993,
+        2005,
+        2017,
+        2029
+      ],
+      "traditional_traits": {
+        "positive": [
+          "observant",
+          "hardworking",
+          "straightforward",
+          "punctual"
+        ],
+        "challenges": [
+          "overly critical",
+          "vain"
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "animal": "Dog",
+      "chinese": "狗",
+      "pinyin": "Gǒu",
+      "earthly_branch": {
+        "chinese": "戌",
+        "pinyin": "Xu"
+      },
+      "fixed_element": "Earth",
+      "polarity": "yang",
+      "branch_hours": "19:00–21:00",
+      "years": [
+        1910,
+        1922,
+        1934,
+        1946,
+        1958,
+        1970,
+        1982,
+        1994,
+        2006,
+        2018,
+        2030
+      ],
+      "traditional_traits": {
+        "positive": [
+          "loyal",
+          "reliable",
+          "fair",
+          "protective"
+        ],
+        "challenges": [
+          "anxious",
+          "stubbornly cautious"
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "animal": "Pig",
+      "chinese": "猪",
+      "pinyin": "Zhū",
+      "earthly_branch": {
+        "chinese": "亥",
+        "pinyin": "Hai"
+      },
+      "fixed_element": "Water",
+      "polarity": "yin",
+      "branch_hours": "21:00–23:00",
+      "years": [
+        1911,
+        1923,
+        1935,
+        1947,
+        1959,
+        1971,
+        1983,
+        1995,
+        2007,
+        2019,
+        2031
+      ],
+      "traditional_traits": {
+        "positive": [
+          "generous",
+          "compassionate",
+          "sincere",
+          "calm"
+        ],
+        "challenges": [
+          "naive",
+          "indulgent"
+        ]
+      }
+    }
+  ]
+}
